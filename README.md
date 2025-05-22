@@ -1,5 +1,3 @@
-Certainly! Below is a README.md file for your Arduino Blind Stick project:
-
 ---
 
 # Arduino Blind Stick
@@ -38,7 +36,3 @@ To build the Arduino Blind Stick, you will need the following components:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust or expand upon this README file as needed to provide more detailed information or instructions for users.
